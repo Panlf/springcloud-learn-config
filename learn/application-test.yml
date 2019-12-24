@@ -1,4 +1,4 @@
 server:
   port: 9030
 client:
-  name: test001
+  name: test002
